@@ -4,11 +4,9 @@
 
 The big idea: look at improving some common design patterns that are usually implemented in a way that isn't very friendly to Progressive Enhancement or Front-end Performance.
 
-One of the reasons to do a workshop rather than a talk is to get more face-to-face time with the presenter(s). We think about 15 people feels right for a 4 hour workshop to make sure that everyone gets some attention.
+One of the reasons to do a workshop rather than a talk is to get more face-to-face time with the presenter(s). We think about 20 people feels right for a 4 hour workshop.
 
 ---
-
-# For the [CFP](https://docs.google.com/forms/d/1CDowOyqotO5jmnzrNUjb5-CKNMySKjNQkHzv0d-z1Uc/viewform?c=0&w=1)
 
 ## Title
 
@@ -16,7 +14,14 @@ Future Friendly UX design
 
 ## Describe your talk in approximately 300 characters
 
-We'll look at some common design patterns, what's not so great about them, and what we can do to make them better for our users. We'll be discussing improvements we can make, sketching them out, and learning about what online tools we can use to help us.
+We'll look at what Future Friendly UX design is, then at:
+
+* the Problems that face us;
+* what Patterns we use that aren't so Future Friendly
+* which Future Friendly UX Principles we can apply to make things better;
+* what Solutions can we use.
+
+The workshop will be very interactive, so expect to do lots of talking, lots of writing, and lots of sketching. We'll do most activities in small groups at tables, but share all our work with everyone. Yes, there will be plenty of sticky notes! We'll end with setting yourself a SMART goal that you'll share with a buddy, to help both of you achieve your goal.
 
 ## Why is this a good topic?
 
