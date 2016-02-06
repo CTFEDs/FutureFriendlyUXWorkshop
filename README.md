@@ -16,10 +16,10 @@ Future Friendly UX design
 
 We'll look at what Future Friendly UX design is, then at:
 
-* the Problems that face us;
-* what Patterns we use that aren't so Future Friendly
-* which Future Friendly UX Principles we can apply to make things better;
-* what Solutions can we use.
+* the **Problems** that face us;
+* what **Patterns** we use that aren't so Future Friendly;
+* which **Principles** we can apply to make things better;
+* what **Solutions** can we use.
 
 The workshop will be very interactive, so expect to do lots of talking, lots of writing, and lots of sketching. We'll do most activities in small groups at tables, but share all our work with everyone. Yes, there will be plenty of sticky notes! We'll end with setting yourself a SMART goal that you'll share with a buddy, to help both of you achieve your goal.
 
