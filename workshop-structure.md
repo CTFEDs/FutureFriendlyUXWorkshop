@@ -1,6 +1,6 @@
 ---
 layout: default
-title: UX South Africa 2015 Workshop
+title: Future Friendly UX Workshop
 ---
 
 Problems, Patterns, Principles, Solutions.

@@ -1,5 +1,5 @@
 # Site settings
-title: UX South Africa 2015 Workshop
+title: Future Friendly UX Workshop
 baseurl: "" # the subpath of your site, e.g. /blog/
 # url: "http://ctfeds.org" # the base hostname & protocol for your site
 # Build settings
@@ -7,7 +7,7 @@ markdown: kramdown
 permalink: :title/
 
 navigation:
- - title: UX South Africa 2015 Workshop
+ - title: Future Friendly UX Workshop
    url: index.html
 
 exclude: [

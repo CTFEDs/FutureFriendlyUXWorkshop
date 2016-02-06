@@ -1,6 +1,6 @@
-# UXSouthAfrica2015Workshop
+# Future Friendly UX Workshop
 
-> Gathering some ideas for a workshop at UX South Africa 2015.
+> Outline for a Future Friendly UX Workshop
 
 The big idea: look at improving some common design patterns that are usually implemented in a way that isn't very friendly to Progressive Enhancement or Front-end Performance.
 
