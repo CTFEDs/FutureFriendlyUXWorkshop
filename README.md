@@ -23,6 +23,8 @@ We'll look at what Future Friendly UX design is, then at:
 
 The workshop will be very interactive, so expect to do lots of talking, lots of writing, and lots of sketching. We'll do most activities in small groups at tables, but share all our work with everyone. Yes, there will be plenty of sticky notes! We'll end with setting yourself a SMART goal that you'll share with a buddy, to help both of you achieve your goal.
 
+(This is an updated version of the workshop that ran in [November 2015](http://www.uxsouthafrica.com/conference/cape-town-2015))
+
 ## Why is this a good topic?
 
 Attendees will leave with practical tips and techniques for making their designs more Future (and User) Friendly.
