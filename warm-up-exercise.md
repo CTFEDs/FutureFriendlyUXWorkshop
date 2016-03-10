@@ -1,8 +1,8 @@
 Hi there!
 
-We're hope you're as excited as we are about the workshop tomorrow.
+We're looking forward to meeting you all and chatting about Future Friendly UX Design at the workshop on Monday.
 
-Before tomorrow's workshop, reply to this mail with answers to these questions. You'll be discussing your answers in a group.
+Before the workshop, please reply to this mail with answers to the questions below. We'll be discussing your answers at the start of the workshop.
 
 * What was the first thing you worked on?
 * What are you working on now that will need updating soon?
