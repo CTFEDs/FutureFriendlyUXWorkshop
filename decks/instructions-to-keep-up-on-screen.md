@@ -3,38 +3,44 @@
 ### (What was the first thing you worked on?)
 ### (What are you working on now that will need updating soon?)
 
-![](stickynotes.jpg)
+![](../img/stickynotes.jpg)
 
 ---
 
 ## Write down changes in the tech landscape in the past few years
 
-![](paper-roll.jpg)
+![](../img/paper-roll.jpg)
+
+---
+
+## (Short!) Presentation
+
+![](../img/presentation.jpg)
 
 ---
 
 ## What's the most important Future Friendly principle?
 
-![fit](discussion.jpg)
+![fit](../img/discussion.jpg)
 
 ---
 
 ## Walk around and write on the posters
 
-![](flipchart.jpg)
+![](../img/flipchart.jpg)
 
 ---
 
 ## Make a summary of the posters to present to the room
 
-![](paper-roll.jpg)
+![](../img/paper-roll.jpg)
 
 ---
 
 ## Find a partner at another table
 ## Tell them about one thing you've learned so far
 
-![](stickynotes.jpg)
+![](../img/stickynotes.jpg)
 
 ---
 
@@ -42,7 +48,7 @@
 ## and Patterns
 ## for your stuff
 
-![](paper-roll.jpg)
+![](../img/paper-roll.jpg)
 
 ---
 
@@ -51,7 +57,7 @@
 ## Diverge: create choices
 ## Quantity over Quality
 
-![](paper-roll.jpg)
+![](../img/paper-roll.jpg)
 
 ---
 
@@ -60,12 +66,14 @@
 ## Converge: make choices
 ## Dot voting
 
-![](paper-roll.jpg)
+![](../img/paper-roll.jpg)
 
 ---
 
 ## Your Pattern / Problem: 1 sentence
 ## Your most-voted Solution: 1 sentence
+
+![](../img/presentation.jpg)
 
 ---
 
@@ -75,7 +83,7 @@
 ## your details.
 ## Swap with a buddy.
 
-![](indexcards.jpg)
+![](../img/indexcards.jpg)
 
 ---
 
