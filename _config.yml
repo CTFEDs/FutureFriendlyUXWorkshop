@@ -1,6 +1,6 @@
 # Site settings
 title: Future Friendly UX Workshop
-baseurl: "/FutureFriendlyUXWorkshop" # the subpath of your site, e.g. /blog/
+baseurl: "/FutureFriendlyUXWorkshopApril2016" # the subpath of your site, e.g. /blog/
 # url: "http://ctfeds.org" # the base hostname & protocol for your site
 # Build settings
 markdown: kramdown
