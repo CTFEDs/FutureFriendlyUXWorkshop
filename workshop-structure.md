@@ -3,15 +3,13 @@ layout: default
 title: Future Friendly UX Workshop
 ---
 
-Problems, Patterns, Principles, Solutions.
-
-## Connections
+# Goals
 
 * Identify your specific **Problems** and **Patterns**.
 * Make your own list of Future Friendly UX **Principles**.
 * Start sketching out **Solutions**.
 
-## Warm up
+## Warm up exercise
 
 * What was the first thing you worked on?
 * What are we doing now that will need updating soon?
@@ -23,8 +21,7 @@ Problems, Patterns, Principles, Solutions.
 ## 1pm
 
 * **Table talk**: on big bits of paper, write down changes in the tech landscape in the past few years. Guidelines will be up on the wall, to be revealed later.
-* **Presentation**: Future Friendly User Experience.
-  * About 15 minutes.
+* **Presentation**: Future Friendly User Experience. About 15 minutes.
 
 ## Break
 
@@ -33,7 +30,7 @@ Problems, Patterns, Principles, Solutions.
 ## 2pm
 
 * **Gallery Walk**: walk around the room and write on the posters (each one has some samples).
-  * Problems and patterns from the Table Talk.
+  * Problems and Patterns from the Table Talk.
   * Future Friendly principles from Presentation.
 * **Summarise**: make summaries of the posters for your table. One person at your table will present to the room: your table's favourite thing from each poster.
 
