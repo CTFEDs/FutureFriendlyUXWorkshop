@@ -32,12 +32,3 @@ Attendees will leave with practical tips and techniques for making their designs
 ## Any comments, questions or requirements?
 
 We'll need a projector, and lots of pen, paper, and sticky notes. Please!
-
-
----
-
-## Template for gathering ideas
-
-Pattern | Problem | Improvement | Workshop Activity
---- | --- | --- | ---
-Description of the pattern, maybe with links. | How this pattern can be not great. | Details of how to improve it. | What activity we'll do to explore the improvement.
