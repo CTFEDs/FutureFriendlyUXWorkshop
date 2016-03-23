@@ -1,7 +1,7 @@
 ### Write down someone else's answers to the warm-up questions
 
 ### (What was the first thing you worked on?)
-### (What are you working on now that will need updating soon?)
+### (What changes in the tech landscape have there been since then?)
 
 ![](../img/stickynotes.jpg)
 
@@ -19,67 +19,110 @@
 
 ---
 
-## What's the most important Future Friendly principle?
-
-![fit](../img/discussion.jpg)
-
----
-
 ## Walk around and write on the posters
 
 ![](../img/flipchart.jpg)
 
 ---
 
-## Make a summary of the posters to present to the room
+## Make a summary of the posters
+
+![](../img/paper-roll.jpg)
+
+^ Will do short share with room after
+
+---
+
+## Share one sentence each about
+## Problems, Patterns, and Principles
+
+![fit](../img/discussion.jpg)
+
+---
+
+### Break
+## Write any questions on the ? poster
+
+![](../img/flipchart.jpg)
+
+^ We'll answer after the break
+
+---
+
+## Q?
+## A!
+
+![fit](../img/discussion.jpg)
+
+---
+
+## Popular Patterns
+### What Problems do they have?
+### What Principles can we apply?
+### What assumptions are we making?
+
+![fit](../img/discussion.jpg)
+
+---
+
+## Sketch your
+## Future Friendly UX
+## Solutions
+
+![](../img/paper-roll.jpg)
+
+^ Diverge, then converge
+create choices, then make choices
+
+---
+
+## Pick a Pattern
+## Identify the Problems
 
 ![](../img/paper-roll.jpg)
 
 ---
 
-## Find a partner at another table
-## Tell them about one thing you've learned so far
-
-![](../img/stickynotes.jpg)
-
----
-
-## Identify Problems
-## and Patterns
-## for your stuff
-
-![](../img/paper-roll.jpg)
-
----
-
-### Problems or Patterns
-
-## Diverge: create choices
+## Sketch out many ideas
 ## Quantity over Quality
 
-![](../img/paper-roll.jpg)
-
----
-
-### Problems or Patterns
-
-## Converge: make choices
-## Dot voting
+^ On your own
 
 ![](../img/paper-roll.jpg)
 
 ---
 
-## Your Pattern / Problem: 1 sentence
-## Your most-voted Solution: 1 sentence
+## Dot vote
+## To the left
 
-![](../img/presentation.jpg)
+![](../img/paper-roll.jpg)
+
+^ Grab a pen, stand up
+Move one seat to the left
+Dot vote
+Repeat
 
 ---
 
-## On the front:
+### 1 sentence for:
+## Your Pattern, Problem
+## Your Solution
+## Which Principles
+
+![](../img/discussion.jpg)
+
+---
+
+## Sketch
+## Iterate on most-voted
+
+![](../img/paper-roll.jpg)
+
+---
+
+### On the front:
 ## your SMART goal.
-## On the back:
+### On the back:
 ## your details.
 ## Swap with a buddy.
 
@@ -87,7 +130,16 @@
 
 ---
 
-## Feedback
+### Two promises
+### email tomorrow with reminder
+### email to check SMART goal done
 
-### justin@justinslack.com
-### steve@naga.co.za
+![fit](../img/discussion.jpg)
+
+----
+
+## Facilitator Feedback
+
+## One thing we could do differently
+
+![](../img/indexcards.jpg)
