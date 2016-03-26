@@ -28,6 +28,13 @@
 
 ---
 
+![fit](../img/tftbotr2.png)
+
+^ Sharon Bowman
+Training From The Back Of The Room
+
+---
+
 # Problems
 
 ^ The assumptions we make that date, sometimes very quickly.
@@ -61,14 +68,14 @@ Designing for change, unknowns
 
 ---
 
-![150%](fflogo.png)
+![150%](../img/fflogo.png)
 
 ^ Big names in Mobile, Responsive, UX (Luke Wroblewski, Scott Jenson, Brad Frost, Jeremy Keith, Lyza D. Gardner, Scott Jehl, Stephanie Rieger, Josh Clark, ...)
 This png is not future friendly :)
 
 ---
 
-![](devices.jpg)
+![](../img/devices.jpg)
 
 ## futurefriend.ly
 
@@ -177,7 +184,7 @@ Probably 5+ slides
 
 ---
 
-![](divergeconverge.jpg)
+![](../img/divergeconverge.jpg)
 
 ---
 
