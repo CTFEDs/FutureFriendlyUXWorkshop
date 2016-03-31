@@ -1,6 +1,7 @@
 # FF UX :fire:
 
-^ How many do you give about your users?
+^ Steve
+How many do you give about your users?
 
 ---
 
@@ -8,17 +9,23 @@
 
 ## Identify your specific **Problems** and **Patterns**
 
+^ Steve
+
 ---
 
 ### Goals for the day
 
 ## Make your own list of Future Friendly UX **Principles**
 
+^ Steve
+
 ---
 
 ### Goals for the day
 
 ## Start sketching out **Solutions**
+
+^ Steve
 
 ---
 
@@ -30,47 +37,54 @@
 
 ![fit](../img/tftbotr2.png)
 
-^ Sharon Bowman
+^ Steve
+Sharon Bowman
 Training From The Back Of The Room
 
 ---
 
 # Problems
 
-^ The assumptions we make that date, sometimes very quickly.
+^ Justin
+The assumptions we make that date, sometimes very quickly.
 The things we don't know.
 
 ---
 
 # Patterns
 
-^ The patterns that show these assumptions.
+^ Justin
+The patterns that show these assumptions.
 
 ---
 
 # Principles
 
-^ Principles we can follow to avoid the Problems and Patterns.
+^ Justin
+Principles we can follow to avoid the Problems and Patterns.
 Not rules: guidelines and suggestions.
 
 ---
 
 # Solutions
 
-^ Specific, practical, new Patterns we can use to avoid these Problems.
+^ Justin
+Specific, practical, new Patterns we can use to avoid these Problems.
 
 ---
 
 ## What is Future Friendly UX design?
 
-^ Being careful about the assumptions we make
+^ Justin
+Being careful about the assumptions we make
 Designing for change, unknowns
 
 ---
 
 ![fit](../img/fflogo-large.png)
 
-^ Big names in Mobile, Responsive, UX (Luke Wroblewski, Scott Jenson, Brad Frost, Jeremy Keith, Lyza D. Gardner, Scott Jehl, Stephanie Rieger, Josh Clark, ...)
+^ Justin
+Big names in Mobile, Responsive, UX (Luke Wroblewski, Scott Jenson, Brad Frost, Jeremy Keith, Lyza D. Gardner, Scott Jehl, Stephanie Rieger, Josh Clark, ...)
 This png is not future friendly :)
 
 ---
@@ -79,8 +93,8 @@ This png is not future friendly :)
 
 ## futurefriend.ly
 
-^ This is the world now
-
+^ Steve
+This is the world now
 ---
 
 ## The **quantity** and **diversity** of connected **devices** is increasing.
@@ -89,7 +103,8 @@ This png is not future friendly :)
 
 ## The quantity and diversity of connected devices, **and the people that use them**, is increasing.
 
-^ New audiences
+^ Steve
+New audiences
 Never been connected before
 Mobile-only
 
@@ -97,20 +112,27 @@ Mobile-only
 
 ## 1. acknowledge and embrace unpredictability
 
-^ We can deal with this exciting, overwhelming, world by:
+^ Steve
+We can deal with this exciting, overwhelming, world by:
 
 ---
 
 ## 2. think and behave in a future friendly way
 
+^ Steve
+
 ---
 
 ## 3. help others to do the same.
+
+^ Steve
 
 ---
 
 ## Future Friendly
 ## Principles
+
+^ Justin
 
 ---
 
@@ -121,6 +143,8 @@ Mobile-only
 ^ * more people, more channels
 * less time, less attention
 * relevant, high quality, content, delivered fast
+
+^ Justin
 
 ---
 
@@ -133,6 +157,8 @@ Mobile-only
 * Progressive Enhancement to layer on presentation
 * Progressive Enhancement to layer on behaviour
 
+^ Justin
+
 ---
 
 ### Future Friendly Principles
@@ -143,6 +169,8 @@ Mobile-only
 * high-level, good-enough, classifications for devices
 * play to the strengths and unique capabilities of devices
 
+^ Justin
+
 ---
 
 # It's a Mission
@@ -150,13 +178,16 @@ Mobile-only
 ^ * long term approach
 * guided by principles
 
+^ Justin
+
 ---
 
 ### Future Friendly UX Design
 
 ## An example
 
-^ How we're going to do it today
+^ Steve
+How we're going to do it today
 
 ---
 
@@ -165,7 +196,8 @@ Mobile-only
 ## Assumptions about
 ## user's interest
 
-^ in *all* our stuff
+^ Steve
+in *all* our stuff
 
 ---
 
@@ -173,7 +205,8 @@ Mobile-only
 
 ## Carousel ಠ_ಠ
 
-^ Probably auto-playing
+^ Steve
+Probably auto-playing
 Probably 5+ slides
 
 ---
@@ -181,6 +214,8 @@ Probably 5+ slides
 ### Principle
 
 ## Focus
+
+^ Steve
 
 ---
 
@@ -193,6 +228,10 @@ Probably 5+ slides
 ## Single hero image
 ## Random on page load
 
+^ Steve
+
 ---
 
 ## Questions / queries?
+
+^ Justin
