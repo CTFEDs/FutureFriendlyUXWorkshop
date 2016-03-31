@@ -95,6 +95,7 @@ This png is not future friendly :)
 
 ^ Steve
 This is the world now
+
 ---
 
 ## The **quantity** and **diversity** of connected **devices** is increasing.
