@@ -68,7 +68,7 @@ Designing for change, unknowns
 
 ---
 
-![150%](../img/fflogo.png)
+![fit](../img/fflogo-large.png)
 
 ^ Big names in Mobile, Responsive, UX (Luke Wroblewski, Scott Jenson, Brad Frost, Jeremy Keith, Lyza D. Gardner, Scott Jehl, Stephanie Rieger, Josh Clark, ...)
 This png is not future friendly :)
