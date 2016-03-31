@@ -219,7 +219,7 @@ Probably 5+ slides
 
 ---
 
-![](../img/divergeconverge.jpg)
+![100%](../img/divergeconverge.jpg)
 
 ---
 
