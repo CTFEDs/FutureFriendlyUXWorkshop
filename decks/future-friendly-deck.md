@@ -1,6 +1,7 @@
 # FF UX :fire:
 
 ^ Steve
+Other FF talk, w/s: AI, IoT, near future, high tech. This is longer term, lower tech.
 How many do you give about your users?
 
 ---
