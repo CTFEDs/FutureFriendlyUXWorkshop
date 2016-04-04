@@ -55,3 +55,8 @@
 
 1. A digital trading card platform.
 2. Thundafund, This Pattern - Product Slider, Drone Clouds
+
+#### Candice Gemmel
+
+1. UI for an online repository (Equella) housing Educational Assets
+2.  creating an offline application housing assets (videos, simulations, interactives) to aid teaching
