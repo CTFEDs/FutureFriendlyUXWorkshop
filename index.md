@@ -9,4 +9,3 @@ title: Future Friendly UX Workshop
 * [Future Friendly UX](decks/future-friendly-deck.pdf) (PDF)
 * [Pattern, Problem, Improvement, Workshop Activity: Handout](print/pattern-problem-principles-activity-handout.pdf) (PDF)
 * [Changes in the Tech landscape](print/changes.pdf) (PDF)
-* [Workshop pictures](pics/) (jpgs)
