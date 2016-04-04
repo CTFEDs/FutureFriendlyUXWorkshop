@@ -1,4 +1,4 @@
-# FF UX :fire:
+# FF UX
 
 ^ Steve
 Other FF talk, w/s: AI, IoT, near future, high tech. This is longer term, lower tech.
@@ -221,7 +221,7 @@ Probably 5+ slides
 
 ---
 
-![100%](../img/divergeconverge.jpg)
+![](../img/divergeconverge.jpg)
 
 ---
 
