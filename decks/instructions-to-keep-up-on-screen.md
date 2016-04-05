@@ -7,9 +7,17 @@
 
 ---
 
-## Write down changes in the tech landscape in the past few years
+## Combine the answers
+## Look for themes
 
 ![](../img/paper-roll.jpg)
+
+---
+
+## Talk at the wall:
+## Changes
+
+![fit](../img/discussion.jpg)
 
 ---
 
@@ -19,9 +27,20 @@
 
 ---
 
-## Walk around and write on the posters
+## Talk at the wall:
+## Patterns
+
+![fit](../img/discussion.jpg)
+
+---
+
+## Walk around and write
+## (at least) one thing
+## on each poster
 
 ![](../img/flipchart.jpg)
+
+^ Problem, Pattern, Principle
 
 ---
 
@@ -40,31 +59,6 @@
 
 ---
 
-### Break
-## Write any questions on the ? poster
-
-![](../img/flipchart.jpg)
-
-^ We'll answer after the break
-
----
-
-## Q?
-## A!
-
-![fit](../img/discussion.jpg)
-
----
-
-## Popular Patterns
-### What Problems do they have?
-### What Principles can we apply?
-### What assumptions are we making?
-
-![fit](../img/discussion.jpg)
-
----
-
 ## Sketch your
 ## Future Friendly UX
 ## Solutions
@@ -76,10 +70,30 @@ create choices, then make choices
 
 ---
 
+![](../img/divergeconverge.jpg)
+
+---
+
 ## Pick a Pattern
 ## Identify the Problems
 
 ![](../img/paper-roll.jpg)
+
+---
+
+### Break
+## Write any questions on the ? poster
+
+![](../img/flipchart.jpg)
+
+^ We'll answer after the break
+
+---
+
+## Answers to
+## your questions
+
+![fit](../img/discussion.jpg)
 
 ---
 
@@ -92,19 +106,20 @@ create choices, then make choices
 
 ---
 
-## Dot vote
+## vote "X"
 ## To the left
 
 ![](../img/paper-roll.jpg)
 
-^ Grab a pen, stand up
+^ FF Principles
+Grab a pen, stand up
 Move one seat to the left
 Dot vote
 Repeat
 
 ---
 
-### 1 sentence for:
+### 1 sentence recap for:
 ## Your Pattern, Problem
 ## Your Solution
 ## Which Principles
@@ -143,3 +158,7 @@ Repeat
 ## One thing we could do differently
 
 ![](../img/indexcards.jpg)
+
+----
+
+## ctfeds.org/ffux
