@@ -20,7 +20,8 @@ title: Future Friendly UX Workshop
 
 ## 1:00 pm
 
-* **Table talk** (15m): on big bits of paper, write down changes in the tech landscape in the past few years. Guidelines will be up on the wall, to be revealed later.
+* **Table talk** (10m): on big bits of paper, write down changes in the tech landscape in the past few years. Guidelines will be up on the wall, to be revealed later.
+* **Discussion**: change in the tech landscape.
 * **Presentation** (15m): Future Friendly User Experience.
 * **Discussion** (30m): we'll look at some popular Patterns (A4 prints, stuck up on the wall) and discuss what Problems they might have (what assumptions are we making?) and what Principles we might apply to fix them.
 
@@ -33,7 +34,7 @@ title: Future Friendly UX Workshop
 
 ## 2:30 pm
 
-* **Summarise** (25m): make summaries of the posters for your table. One person at your table will share with the rest of the room: one sentence each about your summary of the Problems, Patterns, and Principles posters.
+* **Summarise** (25m): flip your big bit of paper and make summaries of the posters for your table. One person at your table will share with the rest of the room: one sentence each about your summary of the Problems, Patterns, and Principles posters.
 
 ## Break (5m)
 
@@ -51,7 +52,6 @@ title: Future Friendly UX Workshop
 
 * **Pick a Pattern to work on** (5m). This could be from the discussion, or something else from your own work that you'd like to improve. Identify the Problems with it.
 * **Sketch out lots of ideas for Solutions** (15m), thinking about the Principles you need to apply. Focus on **quantity** rather than **quality**.
-* **Discussion** (5m): questions on the poster.
 * **Dote Vote** (10m). Grab a pen and stand up.
   * Move one seat to your left.
   * Add a dot on your favourite idea.
