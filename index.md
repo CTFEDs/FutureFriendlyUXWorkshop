@@ -11,3 +11,4 @@ title: Future Friendly UX Workshop
 * [Changes in the Tech landscape](print/changes.pdf) (PDF)
 * [Common Patterns](print/patterns.pdf) (PDF)
 * [Workshop instructions](decks/instructions-to-keep-up-on-screen.pdf)
+* [Facilitator feedback](facilitator-feedback/)
