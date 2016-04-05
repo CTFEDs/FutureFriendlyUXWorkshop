@@ -47,7 +47,8 @@ photos
 
 ^ Steve
 Sharon Bowman
-Training From The Back Of The Room
+Learner-focused, topic-focused
+Learn by doing, not listening
 
 ---
 
