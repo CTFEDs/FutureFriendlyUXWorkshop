@@ -10,8 +10,9 @@ title: Future Friendly UX Workshop
 * [Pattern, Problem, Improvement, Workshop Activity: Handout](print/pattern-problem-principles-activity-handout.pdf) (PDF)
 * [Changes in the Tech landscape](print/changes.pdf) (PDF)
 * [Common Patterns](print/patterns.pdf) (PDF)
-* [Workshop instructions](decks/instructions-to-keep-up-on-screen.pdf)
+* [Workshop instructions](decks/instructions-to-keep-up-on-screen.pdf) (PDF)
 * [Facilitator feedback](facilitator-feedback/)
+* [Photos](photos/)
 
 ## Facilitator Contact Details
 
